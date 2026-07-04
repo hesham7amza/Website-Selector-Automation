@@ -4,5 +4,7 @@ Technologies Used
 - UiPath Studio (Modern Experience)
 - Chrome Browser Automation
 - Flowchart Logic (Flow Switch)
+![Workflow Diagram](https://github.com/hesham7amza/Website-Selector-Automation/blob/main/Website%20Selection%20Flowchart.jpg?raw=true)
+![Workflow Diagram](https://github.com/hesham7amza/Website-Selector-Automation/blob/main/Switch.jpg?raw=true)
 
  
