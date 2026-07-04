@@ -1,0 +1,6 @@
+{
+  "Name": "FlowSwitch",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
